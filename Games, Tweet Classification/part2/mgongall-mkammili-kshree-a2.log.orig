@@ -1,0 +1,1 @@
+bash: ./geolocate.py: /bin/python3: bad interpreter: No such file or directory
