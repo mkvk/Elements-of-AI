@@ -1,0 +1,49 @@
+
+---- Test Case #1
+./route.py Bloomington,_Indiana Indianapolis,_Indiana bfs segments
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #2
+./route.py Cleveland,_Ohio Wooster,_Ohio bfs segments
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #4
+./route.py Cleveland,_Ohio Wooster,_Ohio uniform distance
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #5
+./route.py Cleveland,_Ohio Wooster,_Ohio astar distance
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #6
+./route.py Bloomington,_Indiana Wooster,_Ohio uniform distance
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #7
+./route.py Wooster,_Ohio Bloomington,_Indiana uniform distance
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #8
+./route.py Cleveland,_Ohio Wooster,_Ohio astar time
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #9
+./route.py Cleveland,_Ohio Wooster,_Ohio uniform time
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #10
+./route.py Wooster,_Ohio Bloomington,_Indiana uniform time
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #11
+./route.py Wooster,_Ohio Bloomington,_Indiana astar time
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #12
+./route.py Wooster,_Ohio Bloomington,_Indiana bfs time
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+
+---- Test Case #13
+./route.py Wooster,_Ohio Bloomington,_Indiana bfs distance
+No solution got after running your code. Usually it is because your code encountered some error when executed. Please debug it and try again.
+Passed  1  of 13 tests (1 given free)
